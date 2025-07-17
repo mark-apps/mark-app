@@ -2101,10 +2101,10 @@
 	    "remark":"DOCK置换后的链"
     },{
 		"chain":"FRAX",
-		"url":"https://fraxscan.com/",
+		"url":["https://fraxscan.com/"],
 		"url2":[],
 		"remark":"EVM类型"
 	}
   ],
-  "version": "20250717"
+  "version": "20250717-2"
 }
