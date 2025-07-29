@@ -2104,7 +2104,12 @@
 		"url":["https://fraxscan.com/"],
 		"url2":[],
 		"remark":"EVM类型"
+	},{
+		"chain":"PLUME",
+	    "url":["https://explorer.plume.org/"],
+	    "url2":[],
+	    "remark":"二层网络"
 	}
   ],
-  "version": "20250717-2"
+  "version": "20250729"
 }
